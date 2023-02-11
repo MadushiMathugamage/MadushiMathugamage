@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madushi Mathugamage</h1>
 <h3 align="center">Software Engineering Student</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fweb-development&psig=AOvVaw2EvhMfFQqYyqJs0Zmz9Mxe&ust=1676175199476000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCh06zNjP0CFQAAAAAdAAAAABAE">
 
 - 🌱 I’m currently learning **Internet Technologies**
 
