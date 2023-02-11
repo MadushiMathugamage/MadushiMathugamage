@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madushi Mathugamage</h1>
 <h3 align="center">Software Engineering Student</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fweb-development&psig=AOvVaw2EvhMfFQqYyqJs0Zmz9Mxe&ust=1676175199476000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCh06zNjP0CFQAAAAAdAAAAABAE">
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fweb-development&psig=AOvVaw2EvhMfFQqYyqJs0Zmz9Mxe&ust=1676175199476000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCh06zNjP0CFQAAAAAdAAAAABAE](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.lovepik.com%2Felement%2F45009%2F2186.png_300.png&imgrefurl=https%3A%2F%2Flovepik.com%2Fimages%2Fpng-web-development.html&tbnid=V-kvbg4LpeXSaM&vet=12ahUKEwiKtvvFzYz9AhU66XMBHcXwDn4QMygBegUIARDEAQ..i&docid=2FaGd1NnwZnN3M&w=300&h=300&q=web%20development%20images&ved=2ahUKEwiKtvvFzYz9AhU66XMBHcXwDn4QMygBegUIARDEAQ)">
 
 - 🌱 I’m currently learning **Internet Technologies**
 
